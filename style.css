@@ -1,7 +1,9 @@
 body {
-    background-color: lightgray;
+    background-image: url("logo.png");
+    background-size: cover;
 }
 
 h1{
     text-align: center;
+    color: white;
 }
